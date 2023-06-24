@@ -1,33 +1,62 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Technical Product Senior Analyst",
+            "subtitle": "MercadoLibre",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "A/B Testing. Experiment design, metric selection. Data analysis. Data driven decision making.(Python - Pandas - Numpy - Seaborn. JSON. BigQuery)",
+                "Dashboard development guidance (Looker - Amplitude)",
+                "Machine learning algorithm guidance (Python - Pandas - Sklearn)"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "02/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Biostatistics Professor",
+            "subtitle": "Instituto Tecnológico de Buenos Aires (ITBA)",
+            "workType": "Part-time",
             "workDescription": [
-                "Worked on abc."
+                "Experimental design. Investigative question. Study types. Randomization methods. Inclusion and exclusion criteria.",
+                "Descriptive and inferential frequentist statistics. Main data visualizations. Hypothesis testing. Confidence intervals. Univariate analysis. ANOVA, Linear, Logistic and Cox Regressions. (Rstudio, Rshiny, Rmarkdown)"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "04/2022 – Present"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Technical Product Owner",
+            "subtitle": "Emergencias",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Backlog priorization",
+                "Dashboard development guidance (R-shiny, Postgres)",
+                "Image object detection and text recognition project guidance(Python - Pytorch - Streamlit -)",
+                "Diagnosis codification module project guidance (Python. OOP. FHIR, HL7. HAPI FHIR. SNOMED CT. SNOWSTORM.)"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "10/2022 – 02/2023"
+        },
+        {
+            "title": "Healthcare Data Scientist",
+            "subtitle": "Emergencias",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed an electronic health record (EHR) module for inhouse motor and respiratory kinesiology care based on data analysis. (Python - Flask. Postman. Git. FHIR - HL7. HAPI FHIR. SNOMED CT. SNOWSTORM)",
+                "Developed an algortihm to match incoming patient data with database health insurance data based on multiple identifiers. (Python - Flask - Pandas - Numpy - Pyspark. Git .Postgres. Regex)",
+                "Desgined SQL transactional database architecture. (Postgres. Git)",
+                "Built microservices for showing patient's information and healthcare provider's schedule. (Python - Flask. Postman. HTTP. API REST.)",
+                "Developed a simple web app for machine learning image object detection dataset annotation and image upload preprocessing. (Python - Streamlit.File system storage)"
+            ],
+            "dateText": "09/2021 – 02/2023"
+        }
+        ,
+        {
+            "title": "Healthcare Data Analyst",
+            "subtitle": "Emergencias",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed database architecture for covid mobile app",
+                "Designed and built reports and dashboards to understand users' characteristics and the functioning of a COVID mobile app. (Power BI. Python. SQL)",
+                "Multiple source Health insurance Dataset normalization. (Python - Pandas - Numpy)"
+            ],
+            "dateText": "01/2021 – 09/2021"
         }
     ]
 }

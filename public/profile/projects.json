@@ -2,8 +2,8 @@
     "projects" : [
         {
             "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "title": "T-xray Classification",
+            "bodyText": "Thorax X-ray image view classification with convolutional neural networks. This work was done as part of my thesis program and it was awarded a prize for being the best in Bioingeering at the university in 2022.",
             "links": [
                 {
                     "text": "GitHub",
@@ -22,8 +22,8 @@
         },
         {
             "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Decision support system for the detection of lung oppacities in T-xray",
+            "bodyText": "Lung oppacities are spots inside the lungs where oxygen is not present while normally breathing. Lung oppacities can be challenging to detect due to T-xray variability and the lack of preparation of most professionals in charge of detecting them. A decision support system was developed, to help those professionals with the thorax x-ray analysis.",
             "links": [
                 {
                     "text": "GitHub",
@@ -46,8 +46,8 @@
         },
         {
             "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "title": "Basic Statistical Analysis",
+            "bodyText": "R-shiny app developed for the fast frequentist statistical analysis of small to medium size datasets. It asseses column types, missign values, normality of continuous variables by graphical and numerical tests and compares ODDS ratios for categorical variables.",
             "links": [
                 {
                     "text": "GitHub",
@@ -55,15 +55,14 @@
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "R-shiny",
+                "Statistics",
+                "DataAnalysis"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "title": "Docx Equation Handler",
+            "bodyText": "Web app designed accept a .docx with equations in it (in equation object tag) and extract the simple ones to make them part of a text.",
             "links": [
                 {
                     "text": "GitHub",
@@ -71,10 +70,10 @@
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Python",
+                "XML",
+                "Scrapping",
+                "BeautifulSoap"
             ]
         },
         {
